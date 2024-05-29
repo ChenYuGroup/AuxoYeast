@@ -35,4 +35,4 @@ for i=1:length(genes)
         end
     end
 end
-writecell(result, 'sankeyaa.xlsx');
+writecell(result, 'g_sall.xlsx');
