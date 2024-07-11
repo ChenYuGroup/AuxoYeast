@@ -2,9 +2,9 @@
 An improvement for Yeast9 based on nutrient auxotrophy analysis. We introduce a straightforward function designed to operate seamlessly with the consensus genome-scale metabolic model of _Saccharomyces cerevisiae_. This function is consistent with the yeast-GEM (https://GitHub.com/SysBioChalmers/yeast-GEM) requirement, empowering users to swiftly implement the curated improvements.
 
 # Required software
-* Matlab (The function is implemented in the matlab); 
-* Gurobi Optimizer (The solution procedure is performed using Gurobi); 
-* COBRA toolbox (https://github.com/opencobra/cobratoolbox). 
+* Matlab (The function is implemented in the matlab)
+* Gurobi Optimizer (The solution procedure is performed using Gurobi)
+* COBRA toolbox (https://github.com/opencobra/cobratoolbox)
 * yeast-GEM (https://GitHub.com/SysBioChalmers/yeast-GEM)
 
 # About our study
