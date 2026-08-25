@@ -12,3 +12,6 @@ Our study presents a upgrade to Yeast9 that significantly bolsters its ability t
 
 # Contact us
 If there are any suggestion about the algorithm or related research, please contact us (y.chen3@siat.ac.cn).
+
+# Reference
+Han S., Wu K., Wang Y., Li F., Chen Y., 2024. Auxotrophy-based curation improves the consensus genome-scale metabolic model of yeast. Synth Syst Biotechnol 9, 861–870.
